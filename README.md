@@ -1,9 +1,10 @@
-# VidhiChat: Open-source Conversational Assistant for Indian Criminal Law
-This repository contains the code for a Retrieval-Augmented Generation (RAG) based chatbot designed to provide legal information on Indian criminal law. Built using the Mistral 7B model and ChromaDB, the chatbot helps users navigate the complexities of criminal offenses, legal procedures, and their rights.
+# VidhiChat: Open-Source Legal Assistant for Indian Criminal Law
 
-Features:
-    1. Retrieves and generates contextually accurate responses based on legal queries.
-    2. Tailored to Indian criminal law with focus on case outcomes, legal provisions, and rights.
-    3. Open-source framework with potential for expansion into other areas of law.
+This repository hosts the code for VidhiChat, a Retrieval-Augmented Generation (RAG) based chatbot developed to provide accurate legal information specific to Indian criminal law. Powered by the Mistral 7B model and ChromaDB, this chatbot simplifies the navigation of criminal offenses, legal procedures, and individual rights.
 
-Contributions and feedback are welcome!
+## Key Features:
+1. Retrieves and generates precise, context-aware responses to legal queries.
+2. Specially designed for Indian criminal law, focusing on case outcomes, legal provisions, and rights.
+3. Open-source framework with the flexibility to expand into other legal domains.
+
+Contributions, suggestions, and feedback are highly encouraged!
